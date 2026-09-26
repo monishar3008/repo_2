@@ -1,7 +1,11 @@
 Hello this is my first file.
 This is the change--[Push ]
 This is the change [fetch]
+<<<<<<< HEAD
 Hello this is my second file.
 
 
 addedd
+=======
+fetching
+>>>>>>> c5713e4e404134094f7ac33e5cd890ee36766043
